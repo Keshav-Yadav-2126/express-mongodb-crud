@@ -38,8 +38,8 @@ To get this API up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Keshav-Yadav-2126/express-mongodb-crud.git](https://github.com/Keshav-Yadav-2126/express-mongodb-crud.git)
+    cd express-mongodb-crud
     ```
 
 2.  **Install dependencies:**
